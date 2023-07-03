@@ -1,4 +1,4 @@
-### My name is Josh and I'm learning new things.
+### Hola
 
 <!--
 **joshm20/joshm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
