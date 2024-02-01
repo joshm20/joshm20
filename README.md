@@ -1,11 +1,11 @@
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Josh Makela<br> [![LinkedIn](https://img.shields.io/badge/Josh%20Makela-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-makela) </b>
+## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Josh Makela<br> [![LinkedIn](https://img.shields.io/badge/Josh%20Makela-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-makela) </b>
 
-⚡Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.<br>
+Computer science and mathematics student at James Madison University with a drive to learn. <br>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
+## <b>// Skills</b>
 
-- ## Languages
+- ### Languages
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
     ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
     ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
@@ -13,14 +13,13 @@
     ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
     ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
 
-- ## Frameworks
-    ![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?&logo=spring&logoColor=white&style=flat)
+- ### Frameworks
     ![Node.js Badge](https://img.shields.io/badge/Node.js*-393?logo=nodedotjs&logoColor=fff&style=flat) 
     ![React Badge](https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
 
 <!--- ## Databases -->
 
-- ## Version Control
+- ### Version Control
     ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
     ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
@@ -28,12 +27,12 @@
     ![Apache Badge](https://img.shields.io/badge/Apache-C71A36?&logo=Apache&logoColor=white&style=flat) 
     -->
 
-- ## IDEs & Tools
+- ### IDEs & Tools
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
     ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
 
 \* Skills in study and improvement.
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
 
 ------
 Credit: [jeffdevx](https://github.com/jeffdevx)
