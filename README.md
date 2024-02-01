@@ -6,16 +6,16 @@ Computer science and mathematics student at James Madison University with a driv
 ## <b>// Skills</b>
 
 - ### Languages
-    ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
     ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
+    ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
+    ![C Badge](https://img.shields.io/badge/C-%23323330.svg?&logo=c)
     ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
     ![TypeScript Badge](https://img.shields.io/badge/TypeScript*-3178C6?logo=typescript&logoColor=fff&style=flat)
     ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
     ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
 
 - ### Frameworks
-    ![Node.js Badge](https://img.shields.io/badge/Node.js*-393?logo=nodedotjs&logoColor=fff&style=flat) 
-    ![React Badge](https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
+    ![Angular Badge](https://img.shields.io/badge/Angular*-393?logo=angular&logoColor=fff&style=flat) 
 
 <!--- ## Databases -->
 
@@ -29,10 +29,8 @@ Computer science and mathematics student at James Madison University with a driv
 
 - ### IDEs & Tools
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-    ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
 
 \* Skills in study and improvement.
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
 
 ------
 Credit: [jeffdevx](https://github.com/jeffdevx)
