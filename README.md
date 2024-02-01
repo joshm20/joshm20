@@ -10,7 +10,6 @@ Computer science and mathematics student at James Madison University with a driv
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
     ![C Badge](https://img.shields.io/badge/C-%23323330.svg?&logo=c)
     ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
-    ![TypeScript Badge](https://img.shields.io/badge/TypeScript*-3178C6?logo=typescript&logoColor=fff&style=flat)
     ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
     ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
 
@@ -30,7 +29,7 @@ Computer science and mathematics student at James Madison University with a driv
 - ### IDEs & Tools
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
-\* Skills in study and improvement.
+\* Skills that I'm learning
 
 ------
 Credit: [jeffdevx](https://github.com/jeffdevx)
