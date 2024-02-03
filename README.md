@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 ## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> Hi, I'm Josh Makela<br>
 <b> [![LinkedIn](https://img.shields.io/badge/Josh%20Makela-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-makela) </b>
 
