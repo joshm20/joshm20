@@ -11,10 +11,12 @@ Computer science and mathematics student at James Madison University. <br>
     ![C Badge](https://img.shields.io/badge/C*-%23323330.svg?&logo=c)
     ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
     ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
-    ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
-
+    ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat)
+  
+<!---
 - ### Frameworks
     ![Angular Badge](https://img.shields.io/badge/Angular*-393?logo=angular&logoColor=fff&style=flat) 
+-->
 
 <!--- ## Databases -->
 
