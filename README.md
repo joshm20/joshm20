@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> Hi, I'm Josh Makela<br>
 <b> [![LinkedIn](https://img.shields.io/badge/Josh%20Makela-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-makela) </b>
 
-Computer science and mathematics student at James Madison University with a drive to learn. <br>
+Computer science and mathematics student at James Madison University. <br>
 
 ## <b>// Skills</b>
 
