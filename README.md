@@ -31,7 +31,7 @@ Computer science and mathematics student at James Madison University. <br>
 \* Skills that I'm learning
 
 ------
-Credit: [jeffdevx](https://github.com/jeffdevx)
+Credit: [jeffdevx](https://github.com/jefersoonaf/jeffdevx)
 
 
 <!--
