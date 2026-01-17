@@ -26,8 +26,10 @@ Computer science and mathematics student at James Madison University. <br>
     ![Apache Badge](https://img.shields.io/badge/Apache-C71A36?&logo=Apache&logoColor=white&style=flat) 
     -->
 
-- ### IDEs & Tools
+<!--- 
+- ### IDEs & Tools 
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+-->
 
 \* Skills that I'm learning
 
