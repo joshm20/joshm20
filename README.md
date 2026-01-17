@@ -31,8 +31,6 @@ Computer science and mathematics student at James Madison University. <br>
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 -->
 
-\* Skills that I'm learning
-
 ------
 Credit: [jeffdevx](https://github.com/jefersoonaf/jeffdevx)
 
