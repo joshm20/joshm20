@@ -1,4 +1,4 @@
-Computer science and mathematics student at James Madison University. <br>
+LinkedIn: <br>
 <b> [![LinkedIn](https://img.shields.io/badge/Josh%20Makela-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-makela) </b>
 ## <b>// Skills</b>
 
